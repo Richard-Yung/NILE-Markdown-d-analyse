@@ -148,7 +148,7 @@ Temps moyen de livraison : 45min
 
 **Dans le dashboard entreprise, il manque :**
 
-```
+
 ┌─────────────────────────────────────────────────────────┐
 │  KPIs à afficher pour les entreprises                   │
 ├─────────────────────────────────────────────────────────┤
@@ -161,7 +161,7 @@ Temps moyen de livraison : 45min
 │  ✅ Alertes de performance                               │
 │  ✅ Recommandations d'optimisation                       │
 └─────────────────────────────────────────────────────────┘
-```
+
 
 ### 3.3 Éléments de réassurance B2B
 
@@ -194,7 +194,7 @@ Temps moyen de livraison : 45min
 
 #### Gamification à implémenter :
 
-```
+
 ┌─────────────────────────────────────────────────────────┐
 │  SYSTÈME DE GAMIFICATION POUR LIVREURS                  │
 ├─────────────────────────────────────────────────────────┤
@@ -209,7 +209,7 @@ Temps moyen de livraison : 45min
 │  🌙 "Oiseau de nuit" : 50+ livraisons nocturnes         │
 │  🎯 "Précision GPS" : 0 retard > 5 min                  │
 └─────────────────────────────────────────────────────────┘
-```
+
 
 ### 4.2 Programme de fidélité livreur
 
@@ -253,7 +253,7 @@ Temps moyen de livraison : 45min
 
 **À afficher AVANT le paiement :**
 
-```
+
 ┌─────────────────────────────────────────────────────────┐
 │  🛡️ VOTRE COLIS EST PROTÉGÉ                            │
 │                                                         │
@@ -265,7 +265,7 @@ Temps moyen de livraison : 45min
 │  💰 Mode de paiement sécurisé                           │
 │  Orange Money • Wave • Carte bancaire                   │
 └─────────────────────────────────────────────────────────┘
-```
+
 
 ### 5.3 Programme de fidélité client
 
