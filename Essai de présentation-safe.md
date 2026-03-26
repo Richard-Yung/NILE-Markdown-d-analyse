@@ -19,7 +19,9 @@ Ce que je vais vous présenter, c'est le résultat de plusieurs mois de travail,
 
 **NILE, c'est quoi concrètement ?**
 
-NILE est une plateforme qui offre aux entreprises de livraison deux choses essentielles :
+NILE est une plateforme conçue pour les entreprises de livraison en Afrique de l'Ouest.
+
+Notre mission est double : d'une part, vous fournir des outils professionnels pour gérer vos livreurs et vos livraisons ; d'autre part, vous apporter de nouveaux clients, particuliers et entreprises — qui cherchent des services de livraison.
 
 **Premièrement : des outils de gestion professionnels.**
 
